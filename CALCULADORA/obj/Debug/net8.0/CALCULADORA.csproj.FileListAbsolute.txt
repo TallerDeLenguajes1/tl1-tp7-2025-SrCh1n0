@@ -1,0 +1,15 @@
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\bin\Debug\net8.0\CALCULADORA.exe
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\bin\Debug\net8.0\CALCULADORA.deps.json
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\bin\Debug\net8.0\CALCULADORA.runtimeconfig.json
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\bin\Debug\net8.0\CALCULADORA.dll
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\bin\Debug\net8.0\CALCULADORA.pdb
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\CALCULADORA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\CALCULADORA.AssemblyInfoInputs.cache
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\CALCULADORA.AssemblyInfo.cs
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\CALCULADORA.csproj.CoreCompileInputs.cache
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\CALCULADORA.sourcelink.json
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\CALCULADORA.dll
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\refint\CALCULADORA.dll
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\CALCULADORA.pdb
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\CALCULADORA.genruntimeconfig.cache
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\CALCULADORA\obj\Debug\net8.0\ref\CALCULADORA.dll
