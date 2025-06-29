@@ -1,0 +1,15 @@
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\bin\Debug\net8.0\SisPersonal.exe
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\bin\Debug\net8.0\SisPersonal.deps.json
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\bin\Debug\net8.0\SisPersonal.runtimeconfig.json
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\bin\Debug\net8.0\SisPersonal.dll
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\bin\Debug\net8.0\SisPersonal.pdb
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\SisPersonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\SisPersonal.AssemblyInfoInputs.cache
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\SisPersonal.AssemblyInfo.cs
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\SisPersonal.csproj.CoreCompileInputs.cache
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\SisPersonal.sourcelink.json
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\SisPersonal.dll
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\refint\SisPersonal.dll
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\SisPersonal.pdb
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\SisPersonal.genruntimeconfig.cache
+D:\Personal\Facultad\3er Cuatrimestre\Taller1\tp's\repo\tl1-tp7-2025-SrCh1n0\tl1-tp7-2025-SrCh1n0\SisPersonal\obj\Debug\net8.0\ref\SisPersonal.dll
